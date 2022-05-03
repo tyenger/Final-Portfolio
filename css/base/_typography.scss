@@ -1,36 +1,50 @@
 @font-face {
     font-family: 'RussoOne';
-    src: url('/fonts/RussoOne-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('RussoOne'), url('/fonts/RussoOne-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Aquire';
-    src: url('/fonts/Aquire.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+    src: local('Aquire'), url('/fonts/Aquire.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'TekoBold';
-    src: url('/fonts/Teko-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('TekoBold'), url('/fonts/Teko-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TekoLight';
-    src: url('/fonts/Teko-Light.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('TekoLight'), url('/fonts/Teko-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TekoMedium';
-    src: url('/fonts/Teko-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('TekoMedium'), url('/fonts/Teko-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TekoRegular';
-    src: url('/fonts/Teko-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('TekoRegular'), url('/fonts/Teko-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'TekoSemiBold';
-    src: url('/fonts/Teko-SemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+    src: local('TekoSemiBold'), url('/fonts/Teko-SemiBold.ttf') format('truetype');
 }
 
 
